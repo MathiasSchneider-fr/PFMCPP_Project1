@@ -56,7 +56,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 //  action 1: phil runs
 phil.run();
 //  action 2: phil eats a bad donut
-phil.eatABadDonnut();
+phil.eatBadDonut();
 //  action 3: phil rides a horse
 phil.rideAHorse();
 
@@ -80,8 +80,8 @@ finger.hideInsideTheFist();
 
 //  4)
 //  Noun: Rita
-//  action 1: dates with Phil
-rita.dateWithPhill();
+//  action 1: goes on date with Phil
+rita.goDateWithPhil();
 //  action 2: kisses Phil
 rita.kissPhil();
 //  action 3: pushes Phill into the water
@@ -112,8 +112,8 @@ teacher.hitAStudent();
 musicTeacher.singOutOfTune();
 //  action 2: breaks his piano
 musicTeacher.breakPiano();
-//  action 3: throws flute at a student
-musicTeacher.throwFluteStudent();
+//  action 3: plays the flute
+musicTeacher.playFlute();
 
 //  8) 
 //  Noun: head
@@ -121,8 +121,8 @@ musicTeacher.throwFluteStudent();
 head.rotateClockwise();
 //  action 2:rotates couter clockwise
 head.rotateCounterClockWise();
-//  action 3: falls on the floor
-head.fallFloor();
+//  action 3: the head nods
+head.nod();
 
 //  9)
 //  Noun: Ryan
@@ -134,13 +134,13 @@ ryan.askRitaOut();
 ryan.takeRake();
 
 //  10)
-//  Noun: Me 
-//  action 1: begins part 1
-me.beginPartOne();
-//  action 2: rakes my brains
-me.rakeBrains();
-//  action 3: finishes part 1
-me.finishPartOne();
+//  Noun: school's Director
+//  action 1: comes out of his office
+schoolDirector.comeOutOffice();
+//  action 2: fires a student
+schoolDirector.fireStudent();
+//  action 3: goes home
+schoolDirector.goHome();
 
 
 #endif
