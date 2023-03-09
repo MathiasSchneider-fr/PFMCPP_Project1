@@ -52,85 +52,95 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Phil
+//  action 1: phil runs
+phil.run();
+//  action 2: phil eats a bad donut
+phil.eatBadDonut();
+//  action 3: phil rides a horse
+phil.rideAHorse();
 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: motherInLaw
+//  action 1: annoys me
+motherInLaw.annoyMe();
+//  action 2: annoys me again
+motherInLaw.annoyMeAgain();
+//  action 3: finally leaves
+motherInLaw.finallyLeave();
 
-//  action 2:
-
-//  action 3:
-
-//  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  3) 
+//  Noun: finger
+//  action 1: pushes the button
+finger.pushTheButton();
+//  action 2: rises up
+finger.riseUp();
+//  action 3: hides inside the fist
+finger.hideInsideTheFist();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Rita
+//  action 1: goes on date with Phil
+rita.goDateWithPhil();
+//  action 2: kisses Phil
+rita.kissPhil();
+//  action 3: pushes Phill into the water
+rita.pushesPhillIntoTheWater();
 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: foot
+//  action 1: hits ball
+foot.hitBall();
+//  action 2: hits tibia
+foot.hitTibia();
+//  action 3: hits post, ouch.
+foot.hitPostOuch();
 
-//  action 2:
 
-//  action 3:
-
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  6) 
+//  Noun: teacher
+//  action 1: distributes the papers
+teacher.distributesThePapers();
+//  action 2: corrects the papers
+teacher.correctThePapers();
+//  action 3: hits a student
+teacher.hitAStudent();
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: music teacher
+//  action 1: sings out of tune
+musicTeacher.singOutOfTune();
+//  action 2: breaks his piano
+musicTeacher.breakPiano();
+//  action 3: plays the flute
+musicTeacher.playFlute();
 
-//  action 2:
-
-//  action 3:
-
-//  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  8) 
+//  Noun: head
+//  action 1: rotates clockwise
+head.rotateClockwise();
+//  action 2:rotates couter clockwise
+head.rotateCounterClockWise();
+//  action 3: the head nods
+head.nod();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Ryan
+//  action 1: learns that Rita is no longer with Phill
+ryan.learnRitaIsSingle();
+//  action 2: asks Rita out
+ryan.askRitaOut();
+//  action 3: takes a rake
+ryan.takeRake();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: school's Director
+//  action 1: comes out of his office
+schoolDirector.comeOutOffice();
+//  action 2: fires a student
+schoolDirector.fireStudent();
+//  action 3: goes home
+schoolDirector.goHome();
 
 
 #endif
